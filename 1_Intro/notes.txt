@@ -1,0 +1,7 @@
+these notes are for: https://www.youtube.com/watch?v=Sg4GMVMdOPo&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT 
+
+Newest version interpreter path: C:\Users\Tobias Bøge Nielsen\AppData\Local\Programs\Python\Python313 
+
+Important: make sure to choose the python.exe file!
+
+you can also choose other versions in this path: C:\Users\Tobias Bøge Nielsen\AppData\Local\Programs\Python
