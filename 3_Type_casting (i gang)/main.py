@@ -4,10 +4,10 @@
 # This can be done to ways Explicit or Implicit 
 
 # variables we will be playing with
-name = "Tobias"
-age = 27
-gpa = 2.5
-student = True
+name = "Tobias" # String
+age = 27 # Integer
+gpa = 2.5 # Float
+student = True # Booleans
 
 # How to print the type of the variable, it will look something like this "<class 'class_here'>"
 print(type(name))
@@ -41,3 +41,10 @@ print(f"student is now a String {type(student)}")
 print(student)
 
 # Mangler boolean nået til 5:00 i videon
+
+# when converting a value to boolean, if the value is anything but 0, the value will be True
+age = bool(age)
+print(age)
+
+age = bool("")
+print(age)
