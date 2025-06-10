@@ -40,11 +40,16 @@ student = str(student)
 print(f"student is now a String {type(student)}")
 print(student)
 
-# Mangler boolean nået til 5:00 i videon
-
 # when converting a value to boolean, if the value is anything but 0, the value will be True
 age = bool(age)
 print(age)
 
+# If nothing is entered in a string this will also return False
 age = bool("")
 print(age)
+
+# This is useful for checking a user wrote something in a field or not
+
+# Implicit typecasting ------------------------------------------------------------------------
+
+# Mangler boolean nået til 6:00 i videon
