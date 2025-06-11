@@ -52,4 +52,13 @@ print(age)
 
 # Implicit typecasting ------------------------------------------------------------------------
 
-# Mangler boolean nået til 6:00 i videon
+# implicit typecasting is when a value or variable is converted into a different data type automatically
+
+# Integer
+x = 2
+# Float
+y = 2.0
+
+# Deviding integer with float results in a float value, this was converted automatically
+x = x / y
+print(x)
