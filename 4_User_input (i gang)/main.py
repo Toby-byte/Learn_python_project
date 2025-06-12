@@ -7,4 +7,13 @@
 # fx. in a print statement
 
 name = input("Enter your name: ")
+age = input("Enter your age: ")
+
+# Since you can't add a integer to a string 
+# We can use explicit type casting, to convert the variable age to an Integer
+age = int(age) + 1
+
 print(f"Your name is {name}") 
+print(f"you are {age} years old")
+
+# Nået til 3:00 i video'en
