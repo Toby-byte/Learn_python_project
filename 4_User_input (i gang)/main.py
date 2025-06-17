@@ -16,4 +16,4 @@ age = int(age) + 1
 print(f"Your name is {name}") 
 print(f"you are {age} years old")
 
-# Nået til 7:00 i video'en
+# Nået til 8:45 i video'en
